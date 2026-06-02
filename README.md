@@ -8,11 +8,10 @@
 |:---:|:---:|:---:|:---:|
 | ICPC国际大学生程序设计竞赛（ICPC） | 省赛：5月 | [icpc.global](https://icpc.global/) | ICPC基金会 |
 | 中国大学生程序设计竞赛（CCPC） | 省赛：5月 | [ccpc.io](https://ccpc.io/) | 工信部教育与考试中心 |
-| 中国高校计算机大赛团体程序设计天梯赛（C4天梯赛） | 省赛：4月 | [c4best.cn](http://www.c4best.cn/) | 全国高等学校计算机教育研究会 |
+| 中国高校计算机大赛——团体程序设计天梯赛 | 省赛：4月 | [gplt.patest](https://gplt.patest.cn/regulation) | 全国高等学校计算机教育研究会 |
 | 百度之星程序设计大赛 | 省赛：6月 | [astar.baidu.com](https://astar.baidu.com) | 百度公司 |
 | 蓝桥杯全国大学生软件和信息技术大赛 | 省赛：4月 | [dasai.lanqiao.cn](https://dasai.lanqiao.cn/) | 中国软件行业协会指导·蓝桥杯组委会 |
 | "码蹄杯"全国大学生程序设计大赛 | 省赛：3-5月 | [matiji.net/matibei](https://matiji.net/matibei) | 全国高等学校计算机教育研究会 |
-| 中国高校计算机大赛——团体程序设计天梯赛 | 省赛：3月 | [c4best.cn](http://www.c4best.cn/) | 全国高等学校计算机教育研究会 |
 
 ## 二、创新创业类
 
