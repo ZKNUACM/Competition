@@ -6,7 +6,7 @@
 
 | 竞赛名称 | 时间 | 官方网站 | 主办单位 |
 |:---:|:---:|:---:|:---:|
-| ICPC国际大学生程序设计竞赛（ICPC） | 省赛：5月 | [icpc.global](https://icpc.global/) | ICPC基金会 |
+| ACM-ICPC国际大学生程序设计竞赛 | 省赛：5月 | [icpc.global](https://icpc.global/) | ICPC基金会 |
 | 中国大学生程序设计竞赛（CCPC） | 省赛：5月 | [ccpc.io](https://ccpc.io/) | 工信部教育与考试中心 |
 | 中国高校计算机大赛——团体程序设计天梯赛 | 省赛：4月 | [gplt.patest](https://gplt.patest.cn/regulation) | 全国高等学校计算机教育研究会 |
 | 百度之星程序设计大赛 | 省赛：6月 | [astar.baidu.com](https://astar.baidu.com) | 百度公司 |
@@ -28,11 +28,11 @@
 | 竞赛名称 | 时间 | 官方网站 | 主办单位 |
 |:---:|:---:|:---:|:---:|
 | 中国高校计算机大赛（C4） | 3.22 | [c4best.cn](http://www.c4best.cn/) | 全国高等学校计算机教育研究会 |
-| 全国大学生电子设计竞赛（NUEDC） |  | [nuedc.xjtu.edu.cn](https://nuedc.xjtu.edu.cn/) | 教育部·工信部共同主办 |
+| 全国大学生电子设计竞赛（NUEDC） |  | [nuedc-training](https://www.nuedc-training.com.cn/) | 教育部·工信部共同主办 |
 | 中国大学生计算机设计大赛 | 约3-5月 | [jsjds.blcu.edu.cn](https://jsjds.blcu.edu.cn/) | 中国大学生计算机设计大赛组委会 |
 | "中国软件杯"大学生软件设计大赛 | 约4月 | [cnsoftbei.com](https://www.cnsoftbei.com/) | 工信部·教育部·江苏省政府 |
 | 中国大学生工程实践与创新能力大赛 |  | [gcxl.edu.cn](http://www.gcxl.edu.cn/) | 教育部高等教育司 |
-| "高教杯"全国大学生先进成图技术与产品信息建模创新大赛 | 约4月 | [chengtudasai.com](http://www.chengtudasai.com/) | 教育部工程图学教指委·中国图学学会 |
+| 全国大学生先进成图技术与产品信息建模创新大赛 | 约4月 | [chengtudasai.com](http://www.chengtudasai.com/) | 教育部工程图学教指委·中国图学学会 |
 
 ## 四、机器人类
 
@@ -47,10 +47,9 @@
 ## 五、网络安全
 | 竞赛名称 | 时间 | 官方网站 | 主办单位 |
 |:---:|:---:|:---:|:---:|
-| 全国大学生信息安全竞赛 |  | [robocon.org.cn](http://robocon.org.cn/) | 全国大学生机器人大赛组委会 |
-| 全国大学生信息安全与对抗技术竞赛 |  | [robocon.org.cn](http://robocon.org.cn/) | 全国大学生机器人大赛组委会 |
-| "御网杯"网络安全大赛 |  | [robocon.org.cn](http://robocon.org.cn/) | 全国大学生机器人大赛组委会 |
-| 中国高校计算机大赛网络技术相关赛道 |  | [robocon.org.cn](http://robocon.org.cn/) | 全国大学生机器人大赛组委会 |
+| 全国大学生信息安全竞赛 |  | [ciscn.cn](http://www.ciscn.cn) | 全国大学生机器人大赛组委会 |
+| 全国大学生信息安全与对抗技术竞赛 |  | [isclab.org](https://www.isclab.org.cn/) | 全国大学生机器人大赛组委会 |
+| "御网杯"网络安全大赛 |  | [hncsisc.com](https://www.hncsisc.com/) | 全国大学生机器人大赛组委会 |
 
 
 # 编程类
