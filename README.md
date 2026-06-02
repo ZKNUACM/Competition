@@ -1,6 +1,6 @@
 # 竞赛
 
-> 数据更新日期：2026年3月16日 
+> 数据更新日期：2026年6月 
 
 ## 一、编程类
 
@@ -28,7 +28,7 @@
 | 竞赛名称 | 时间 | 官方网站 | 主办单位 |
 |:---:|:---:|:---:|:---:|
 | 中国高校计算机大赛（C4） | 3.22 | [c4best.cn](http://www.c4best.cn/) | 全国高等学校计算机教育研究会 |
-| 全国大学生电子设计竞赛（NUEDC） |  | [nuedc-training](https://www.nuedc-training.com.cn/) | 教育部·工信部共同主办 |
+| 全国大学生电子设计竞赛 |  | [nuedc-training](https://www.nuedc-training.com.cn/) | 教育部·工信部共同主办 |
 | 中国大学生计算机设计大赛 | 约3-5月 | [jsjds.blcu.edu.cn](https://jsjds.blcu.edu.cn/) | 教育部高等学校计算机类专业教学指导委员会等 |
 | "中国软件杯"大学生软件设计大赛 | 约4月 | [cnsoftbei.com](https://www.cnsoftbei.com/) | 工信部·教育部·江苏省政府 |
 | 中国大学生工程实践与创新能力大赛 |  | [gcxl.edu.cn](http://www.gcxl.edu.cn/) | 教育部工程训练教学指导委员会 |
@@ -38,9 +38,9 @@
 
 | 竞赛名称 | 时间 | 官方网站 | 主办单位 |
 |:---:|:---:|:---:|:---:|
-| 全国大学生机器人大赛（ROBOCON） |  | [robocon.org.cn](http://robocon.org.cn/) | 全国大学生机器人大赛组委会 |
-| 睿抗机器人开发者大赛（RAICOM） |  | [raicom.com.cn](https://www.raicom.com.cn) | 工信部人才交流中心 |
-| 中国机器人及人工智能大赛（CRAIC） |  | [caairobot.com](https://www.caairobot.com) | 中国人工智能学会（CAAI） |
+| 全国大学生机器人大赛 |  | [robocon.org.cn](http://robocon.org.cn/) | 全国大学生机器人大赛组委会 |
+| 睿抗机器人开发者大赛 |  | [raicom.com.cn](https://www.raicom.com.cn) | 工信部人才交流中心 |
+| 中国机器人及人工智能大赛 |  | [caairobot.com](https://www.caairobot.com) | 中国人工智能学会（CAAI） |
 | 中国高校智能机器人创意大赛 |  | [robotcontest.cn](http://www.robotcontest.cn) | 中国高等教育学会等 |
 | 中国机器人大赛暨RoboCup机器人世界杯中国赛 |  | [crc.drct-caa.org.cn](http://crc.drct-caa.org.cn/) | 中国自动化学会等 |
 
