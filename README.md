@@ -12,7 +12,7 @@
 | 百度之星程序设计大赛 | 省赛：6月 | [astar.baidu.com](https://astar.baidu.com) | 百度公司 |
 | 蓝桥杯全国大学生软件和信息技术大赛 | 省赛：4月 | [dasai.lanqiao.cn](https://dasai.lanqiao.cn/) | 中国软件行业协会指导·蓝桥杯组委会 |
 | 码蹄杯全国大学生程序设计大赛 | 省赛：3-5月 | [matiji.net/matibei](https://matiji.net/matibei) | 全国高等学校计算机教育研究会 |
-| 中国高校计算机大赛（C4） | A类 | 第5届（2026） | 天梯赛报名截止**3.22** | ⏰ 进行中 | [c4best.cn](http://www.c4best.cn/) | 全国高等学校计算机教育研究会 |
+| 中国高校计算机大赛天梯赛 | 省赛：3月 | [c4best.cn](http://www.c4best.cn/) | 全国高等学校计算机教育研究会 |
 
 
 
