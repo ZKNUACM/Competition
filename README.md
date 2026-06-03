@@ -49,3 +49,45 @@
 | "中国软件杯"大学生软件设计大赛 | 约4月 | [cnsoftbei.com](https://www.cnsoftbei.com/) | 工信部·教育部·江苏省政府 |
 | 中国大学生工程实践与创新能力大赛 |  | [gcxl.edu.cn](http://www.gcxl.edu.cn/) | 教育部工程训练教学指导委员会 |
 | 全国大学生先进成图技术与产品信息建模创新大赛 | 约4月 | [chengtudasai.com](http://www.chengtudasai.com/) | 教育部高等学校工程图学教学指导委员会等 |
+
+# 网站
+## 编程类
+- 新手：洛谷入门赛>牛客小白月赛>AtCoder ABC>Codeforces Div4/Div3
+- 中级：AtCoder ABC>Codeforces Div2>牛客周赛>LeetCode Weekly
+- 高级：Codeforces Div1>AtCoder ARC/AGC>牛客挑战赛
+
+| 平台 | 官站 |
+|:---:|:---:|
+| 国外 | [**Codeforces**](https://codeforces.com) |
+| 国外 | [AtCoder](https://atcoder.jp) |
+| 国外 | [LeetCode](https://leetcode.com/) |
+| 国内 | [牛客](https://ac.nowcoder.com) |
+| 国内 | [洛谷](https://www.luogu.com.cn) |
+| 国内 | [AcWing](https://www.acwing.com) |
+
+## 算法类
+- 博士：研赛>Kaggle/AIcrowd>顶会Workshop/Challenge>领域基准
+- 本硕：挑战杯/互联网+>ICPC/CCPC>Kaggle/天池>研赛
+
+| 平台 | 官站 |
+|:---:|:---:|
+| 国外 | [Kaggle](https://www.kaggle.com/) |
+| 国外 | [AIcrowd](https://www.aicrowd.com/) | 
+| 国外 | [Codabench](https://www.codabench.org/) |
+| 国外 | [CodaLab](https://codalab.org/) |
+| 国外 | [DrivenData](https://www.drivendata.org/) | 
+| 国外 | [EvalAI](https://eval.ai/) |
+| 国外 | [Grand Challenge](https://grand-challenge.org/) |
+| 国外 | [Zindi](https://zindi.africa/) |
+| 国外 | [MLcontests](https://mlcontests.com/) |
+| 国内 | [天池](https://tianchi.aliyun.com/) |
+| 国内 | [DataFountain](https://www.datafountain.cn/) |
+| 国内 | [百度飞桨](https://aistudio.baidu.com/competition) |
+| 国内 | [华为云](https://developer.huaweicloud.com) |
+| 国内 | [华为ICT](https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132004) |
+| 国内 | [Biendata](https://www.biendata.xyz/) |
+| 国内 | [和鲸社区](https://www.heywhale.com/home) |
+| 国内 | [CCF Act](https://www.ccf.org.cn/Activities/Contests/) |
+| 国内 | [琶洲算法](https://www.aicompetition-pz.com/) |
+| 国内 | [极市平台](https://www.cvmart.net/) |
+| 国内 | [赛氪](https://www.saikr.com/) |
