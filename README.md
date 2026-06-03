@@ -59,11 +59,11 @@
 | 平台 | 官站 |
 |:---:|:---:|
 | 国外 | [**Codeforces**](https://codeforces.com) |
-| 国外 | [AtCoder](https://atcoder.jp) |
+| 国外 | [**AtCoder**](https://atcoder.jp) |
 | 国外 | [LeetCode](https://leetcode.com/) |
-| 国内 | [牛客](https://ac.nowcoder.com) |
-| 国内 | [洛谷](https://www.luogu.com.cn) |
-| 国内 | [AcWing](https://www.acwing.com) |
+| 国内 | [**牛客**](https://ac.nowcoder.com) |
+| 国内 | [**洛谷**](https://www.luogu.com.cn) |
+| 国内 | [**AcWing**](https://www.acwing.com) |
 
 ## 算法类
 - 博士：研赛>Kaggle/AIcrowd>顶会Workshop/Challenge>领域基准
@@ -71,23 +71,23 @@
 
 | 平台 | 官站 |
 |:---:|:---:|
-| 国外 | [Kaggle](https://www.kaggle.com/) |
-| 国外 | [AIcrowd](https://www.aicrowd.com/) | 
-| 国外 | [Codabench](https://www.codabench.org/) |
+| 国外 | [**Kaggle**](https://www.kaggle.com/) |
+| 国外 | [**AIcrowd**](https://www.aicrowd.com/) | 
+| 国外 | [**Codabench**](https://www.codabench.org/) |
+| 国外 | [**DrivenData**](https://www.drivendata.org/) | 
+| 国外 | [**EvalAI**](https://eval.ai/) |
 | 国外 | [CodaLab](https://codalab.org/) |
-| 国外 | [DrivenData](https://www.drivendata.org/) | 
-| 国外 | [EvalAI](https://eval.ai/) |
 | 国外 | [Grand Challenge](https://grand-challenge.org/) |
 | 国外 | [Zindi](https://zindi.africa/) |
 | 国外 | [MLcontests](https://mlcontests.com/) |
-| 国内 | [天池](https://tianchi.aliyun.com/) |
-| 国内 | [DataFountain](https://www.datafountain.cn/) |
+| 国内 | [**天池**](https://tianchi.aliyun.com/) |
+| 国内 | [**DataFountain**](https://www.datafountain.cn/) |
+| 国内 | [**CCF Act**](https://www.ccf.org.cn/Activities/Contests/) |
 | 国内 | [百度飞桨](https://aistudio.baidu.com/competition) |
 | 国内 | [华为云](https://developer.huaweicloud.com) |
 | 国内 | [华为ICT](https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132004) |
 | 国内 | [Biendata](https://www.biendata.xyz/) |
 | 国内 | [和鲸社区](https://www.heywhale.com/home) |
-| 国内 | [CCF Act](https://www.ccf.org.cn/Activities/Contests/) |
 | 国内 | [琶洲算法](https://www.aicompetition-pz.com/) |
 | 国内 | [极市平台](https://www.cvmart.net/) |
 | 国内 | [赛氪](https://www.saikr.com/) |
